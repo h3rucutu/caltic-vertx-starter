@@ -2,6 +2,11 @@
 
 This project is a template to start your own Vert.x project using Apache Maven.
 
+== Build Status
+
+* `master` image:https://travis-ci.org/h3rucutu/caltic-vertx-starter.svg?branch=master["Build Status", link="https://travis-ci.org/h3rucutu/caltic-vertx-starter"]
+* `develop` image:https://travis-ci.org/h3rucutu/caltic-vertx-starter.svg?branch=develop["Build Status", link="https://travis-ci.org/h3rucutu/caltic-vertx-starter"]
+
 == Prerequisites
 
 * Apache Maven
