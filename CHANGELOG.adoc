@@ -1,6 +1,6 @@
 = Changelog:
 
-==== https://github.com/h3rucutu/caltic-vertx-wiki/tree/0.0.1[Version 0.0.1] (2018-10-06)
+==== https://github.com/h3rucutu/caltic-vertx-starter/tree/0.0.1[Version 0.0.1] (2018-10-06)
 
 - Added Apache-2.0 License and Changelog
 - Initial commit
