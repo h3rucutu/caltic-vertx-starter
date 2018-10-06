@@ -1,4 +1,4 @@
-= Caltic Vert.x Starter
+= Caltic Vert.x Starter | image:https://travis-ci.org/h3rucutu/caltic-vertx-starter.svg?branch=develop["Build Status", link="https://travis-ci.org/h3rucutu/caltic-vertx-starter"]
 
 This project is a template to start your own Vert.x project using Apache Maven.
 
