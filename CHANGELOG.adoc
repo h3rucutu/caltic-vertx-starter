@@ -1,5 +1,11 @@
 = Changelog:
 
+==== https://github.com/h3rucutu/caltic-vertx-starter/tree/0.0.3[Version 0.0.3] (2018-12-18)
+
+- Upgrade Vert.x version to 3.5.4
+- Upgrade Maven Wrapper version to 0.4.2
+- Fix wrong groupId package
+
 ==== https://github.com/h3rucutu/caltic-vertx-starter/tree/0.0.2[Version 0.0.2] (2018-10-06)
 
 - Integration with Travis-CI
