@@ -1,5 +1,9 @@
 = Changelog:
 
+==== https://github.com/h3rucutu/caltic-vertx-starter/tree/0.0.4[Version 0.0.4] (2018-12-27)
+
+- Upgrade Vert.x version to 3.6.2
+
 ==== https://github.com/h3rucutu/caltic-vertx-starter/tree/0.0.3[Version 0.0.3] (2018-12-18)
 
 - Upgrade Vert.x version to 3.5.4
