@@ -1,5 +1,10 @@
 = Changelog:
 
+==== https://github.com/h3rucutu/caltic-vertx-starter/tree/0.0.5[Version 0.0.5] (2019-05-16)
+
+- Upgrade Vert.x version to 3.7.0
+- Upgrade vertx-maven-plugin version to 1.0.17
+
 ==== https://github.com/h3rucutu/caltic-vertx-starter/tree/0.0.4[Version 0.0.4] (2018-12-27)
 
 - Upgrade Vert.x version to 3.6.2
