@@ -3,6 +3,7 @@
 ==== https://github.com/h3rucutu/caltic-vertx-starter/tree/0.0.6[Version 0.0.6] (2019-06-20)
 
 - Upgrade Vert.x version to 3.7.1
+- Upgrade Maven Wrapper version to 0.5.5
 
 ==== https://github.com/h3rucutu/caltic-vertx-starter/tree/0.0.5[Version 0.0.5] (2019-05-16)
 
