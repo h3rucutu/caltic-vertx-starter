@@ -11,7 +11,7 @@ public class MainVerticle extends AbstractVerticle {
   	int port = Integer.valueOf(Optional.ofNullable(System.getenv("PORT")).orElse("9000"));
 
   	vertx.createHttpServer()
-        .requestHandler(req -> req.response().end("Hello Caltic Vert.x!"))
+        .requestHandler(req -> req.response().end("Hello Caltic Vert.x!\n"))
         .listen(port);
   }
 
