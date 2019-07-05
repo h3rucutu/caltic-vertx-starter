@@ -1,5 +1,9 @@
 = Changelog:
 
+==== https://github.com/h3rucutu/caltic-vertx-starter/tree/0.0.7[Version 0.0.7] (2019-07-05)
+
+- Upgrade Maven Compiler version to 3.6.1
+
 ==== https://github.com/h3rucutu/caltic-vertx-starter/tree/0.0.6[Version 0.0.6] (2019-06-20)
 
 - Upgrade Vert.x version to 3.7.1
