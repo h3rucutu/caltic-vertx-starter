@@ -6,10 +6,10 @@
 
   <groupId>id.caltic.labs</groupId>
   <artifactId>caltic-vertx-starter</artifactId>
-  <version>0.0.6</version>
+  <version>0.0.7</version>
 
   <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.version>3.6.1</maven.compiler.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
@@ -77,10 +77,10 @@
 
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
-        <version>3.1</version>
+        <version>${maven.compiler.version}</version>
         <configuration>
-          <source>1.8</source>
-          <target>1.8</target>
+          <source>${maven.compiler.source}</source>
+          <target>${maven.compiler.target}</target>
           <encoding>${project.build.sourceEncoding}</encoding>
           <generatedSourcesDirectory>src/main/generated</generatedSourcesDirectory>
           <generatedTestSourcesDirectory>src/test/generated</generatedTestSourcesDirectory>
