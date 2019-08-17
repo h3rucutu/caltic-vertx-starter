@@ -1,4 +1,4 @@
-package id.caltic.labs;
+package tech.caltic.labs;
 
 import io.vertx.core.Vertx;
 import io.vertx.ext.unit.Async;
