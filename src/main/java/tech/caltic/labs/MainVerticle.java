@@ -1,4 +1,4 @@
-package id.caltic.labs;
+package tech.caltic.labs;
 
 import io.vertx.core.AbstractVerticle;
 
@@ -8,10 +8,10 @@ public class MainVerticle extends AbstractVerticle {
 
   @Override
   public void start() {
-  	int port = Integer.valueOf(Optional.ofNullable(System.getenv("PORT")).orElse("9000"));
+  	int port = Integer.parseInt(Optional.ofNullable(System.getenv("PORT")).orElse("9000"));
 
   	vertx.createHttpServer()
-        .requestHandler(req -> req.response().end("Hello Caltic Vert.x!\n"))
+        .requestHandler(req -> req.response().end("Hello Caltx Vert.x!\n"))
         .listen(port);
   }
 

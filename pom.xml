@@ -4,20 +4,20 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>id.caltic.labs</groupId>
+  <groupId>tech.caltic.labs</groupId>
   <artifactId>caltic-vertx-starter</artifactId>
-  <version>0.0.7</version>
+  <version>0.0.8</version>
 
   <properties>
     <maven.compiler.version>3.6.1</maven.compiler.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-    <vertx.version>3.7.1</vertx.version>
+    <vertx.version>3.8.0</vertx.version>
     <vertx-maven-plugin.version>1.0.18</vertx-maven-plugin.version>
     <logback.version>1.2.3</logback.version>
     <junit.version>4.12</junit.version>
-    <vertx.verticle>id.caltic.labs.MainVerticle</vertx.verticle>
+    <vertx.verticle>tech.caltic.labs.MainVerticle</vertx.verticle>
   </properties>
 
   <dependencyManagement>
